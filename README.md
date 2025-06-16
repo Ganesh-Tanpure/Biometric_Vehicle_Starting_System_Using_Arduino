@@ -54,7 +54,7 @@ Whether you’re building your own EV or upgrading your current ride, this syste
 Check the `/images/` folder or contribute your own version!
 
 <p align="center">
-  <img src="images/Circuit_diagram.png" alt="Circuit Diagram" width="600" />
+  <img src="Circuit_diagram.png" alt="Circuit Diagram" width="600" />
 </p>
 
 ---
