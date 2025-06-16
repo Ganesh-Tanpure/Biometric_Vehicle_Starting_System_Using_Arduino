@@ -63,12 +63,10 @@ Check the `/images/` folder or contribute your own version!
 
 ```bash
 Biometric/
-├── code/
-│   └── Biometric.ino
-├── images/
-│   ├── Block diagram.jpg
-│   └── Circuit diagram.jpg
-│  └── Flowchart.jpg
+├── Biometric.ino
+├── Block diagram.jpg
+├── Circuit diagram.jpg
+├── Flowchart.jpg
 ├── PPT
 ├── Report
 └── README.md
