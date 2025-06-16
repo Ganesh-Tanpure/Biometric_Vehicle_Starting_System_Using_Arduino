@@ -50,9 +50,6 @@ Whether you’re building your own EV or upgrading your current ride, this syste
 
 ## 🔌 Wiring & Schematic
 
-> 📌 *Coming soon: Fritzing diagram or wiring illustration!*  
-Check the `/images/` folder or contribute your own version!
-
 <p align="center">
   <img src="Circuit diagram.png" alt="Circuit Diagram" width="600" />
 </p>
