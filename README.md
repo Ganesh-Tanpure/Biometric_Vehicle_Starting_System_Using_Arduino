@@ -60,10 +60,12 @@ Whether you’re building your own EV or upgrading your current ride, this syste
 
 ```bash
 Biometric/
-├── Biometric.ino
-├── Block diagram.jpg
-├── Circuit diagram.jpg
-├── Flowchart.jpg
+├── code/
+│   └── Biometric.ino
+├── images/
+│   └── Block diagram.jpg
+│   └── Circuit diagram.png
+│   └── Flowchart.jpg
 ├── PPT
 ├── Report
 └── README.md
